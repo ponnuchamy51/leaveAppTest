@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ponnuchamy51/leaveAppTest/static/css/main.7db88f96.chunk.css",
+    "main.js": "/ponnuchamy51/leaveAppTest/static/js/main.bb36f684.chunk.js",
+    "main.js.map": "/ponnuchamy51/leaveAppTest/static/js/main.bb36f684.chunk.js.map",
+    "runtime-main.js": "/ponnuchamy51/leaveAppTest/static/js/runtime-main.4b3ea36c.js",
+    "runtime-main.js.map": "/ponnuchamy51/leaveAppTest/static/js/runtime-main.4b3ea36c.js.map",
+    "static/css/2.468c5d8a.chunk.css": "/ponnuchamy51/leaveAppTest/static/css/2.468c5d8a.chunk.css",
+    "static/js/2.ccca70f4.chunk.js": "/ponnuchamy51/leaveAppTest/static/js/2.ccca70f4.chunk.js",
+    "static/js/2.ccca70f4.chunk.js.map": "/ponnuchamy51/leaveAppTest/static/js/2.ccca70f4.chunk.js.map",
+    "index.html": "/ponnuchamy51/leaveAppTest/index.html",
+    "precache-manifest.2183c240d9173558a173264725febbae.js": "/ponnuchamy51/leaveAppTest/precache-manifest.2183c240d9173558a173264725febbae.js",
+    "service-worker.js": "/ponnuchamy51/leaveAppTest/service-worker.js",
+    "static/css/2.468c5d8a.chunk.css.map": "/ponnuchamy51/leaveAppTest/static/css/2.468c5d8a.chunk.css.map",
+    "static/css/main.7db88f96.chunk.css.map": "/ponnuchamy51/leaveAppTest/static/css/main.7db88f96.chunk.css.map",
+    "static/js/2.ccca70f4.chunk.js.LICENSE": "/ponnuchamy51/leaveAppTest/static/js/2.ccca70f4.chunk.js.LICENSE",
+    "static/media/genu.jpg": "/ponnuchamy51/leaveAppTest/static/media/genu.bacfb255.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b3ea36c.js",
+    "static/css/2.468c5d8a.chunk.css",
+    "static/js/2.ccca70f4.chunk.js",
+    "static/css/main.7db88f96.chunk.css",
+    "static/js/main.bb36f684.chunk.js"
+  ]
+}
