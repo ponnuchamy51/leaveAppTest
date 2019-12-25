@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "semi": false,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "overrides": [
+    {
+      "files": "*.test.js",
+      "options": {
+        "semi": true
+      }
+    },
+    {
+      "files": ["*.html", "legacy/**/*.js"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
